@@ -2,7 +2,19 @@
 This one time, at band camp, I licked the back of a frog.  I don't remember quite what happened afterwards though.  However, I do remember quite a few fractals, some funny colors, and the world started to melt around me.
 =======
 
+Jacob Brevard:
+I went to the packer game and had a blast. I met Aaron Rodgers and he signed jersey. The packers are the best football team in the league!!!
 
 
+<<<<<<< HEAD
 Ruizhe Wang: Sep.29 2019 Good Story!
 >>>>>>> 8880506137da7adbc8f1bbb951492dd4cc661f1d
+=======
+I was so excited so then I went to a grocery store and buy 500lb candys for people I met.
+
+Then all the people loved me so much so we all ran to the grand canyon. I felt
+Very confident in my abilities so I tight roped walke all the way across it 
+with no harness... After that we went to climb to the top of mount everest. This was a challenging task.
+>>>>>>> 9af7d91b765b6004d9a4ef6f364ce6e9abe10976
+
+Evan: Does anyone know why this file has a bunch of chevrons, says "HEAD", and has a bunch of strings of hexadecimal charactors in it?
