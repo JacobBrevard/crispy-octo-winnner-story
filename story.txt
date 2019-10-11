@@ -17,7 +17,10 @@ with no harness... After that we went to climb to the top of mount everest. This
 
 Evan: Does anyone know why this file has a bunch of chevrons, says "HEAD", and has a bunch of strings of hexadecimal charactors in it?
 
-Jacob Brevard: I have no idea. I got rid of them though so hopefully my final commit will take care of that. Now, Back to the end of the story. After traveling to the grand canyon I found myself wondering if the earth was flat or round. So I traveled the world searching for the end which never came... La Fin...
+Jacob Brevard: I have no idea. I got rid of them though so hopefully my final commit will take care of that. Now, Back to the end of the story. After traveling to the grand canyon I found myself wondering if the earth was flat or round. So I traveled the world searching for the end which never came.
+
+Charlie Stock:
+Or so I thought.... After months of trekking with the worlds leading scientists, we reached the end of the earth. Right past the mariana trench is a ledge which drops off into a vast expanse of nothing. How this was never found before, Ido not know. It was so beautiful, that I took a risk and jumped off the edge ofthe earth. I have been falling for years now, hoping one day I will come in contact with something to stop my momentum.
 
 Credits:
 Contributors
